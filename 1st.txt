@@ -3,3 +3,5 @@ Hello World
 Demo world
 
 changes from online editor using github
+
+edited for smartgit, locally
